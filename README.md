@@ -1,1 +1,1 @@
-https://your-githab-account.github.io/rsschool-2019Q1-cv/cv
+https://Nura-BY-13.github.io/rsschool-2019Q1-cv/cv
