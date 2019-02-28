@@ -5,6 +5,7 @@
  
 ###Contacts: 
 Tel. +375 (29) 821 89 14 (MTS)
+Tel. +375 (25) 518 91 52 (Life)
 email: bel_anna@list.ru
  
 At the moment I am a lecturer in Brest State Technical University, therefore, at least, it is interesting to see how the training webinars are conducted. I want to evaluate my capabilities, expand the boundaries, open to new information. The mood is raised from the ability to place the task in a capacious and clear algorithm. *I believe that learning what is interesting should be a daily ritual*.
