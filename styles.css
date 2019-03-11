@@ -1,0 +1,67 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+    font-family:'TrixieCyr';
+    src: url("assets/TrixieCyr-Plain_45666.ttf");  
+  }
+  
+@font-face {
+    font-family:'Minecraft';
+    src: url("assets/minecraft-title-cyrillic-regular3.ttf");  
+  }
+
+header, main {
+   max-width: 1024px;
+   margin-right: auto;
+   margin-left: auto;
+   background: url("assets/bg-kids-001.png");
+   background-position: right 58px bottom -38px;
+   font-family: TrixieCyr;
+   }
+
+.border {
+  border: 15px solid;
+  border-image: url("assets/18938880.png") 15 / 18px / 0 round;
+  position: absolute;
+  margin-left: 728px;
+  margin-top: -198px;
+  height: 100px;
+  width: 100px;
+}
+
+.img {
+  position: absolute;
+  margin-left: 644px;
+  margin-top: -184px;
+}
+
+
+.begin {
+  padding-top: 20px; 
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px; 
+}
+
+.bold {
+  font-family: Minecraft;
+  font-size:50%; 
+}
+
+h3 {
+  text-align: center;
+  font-size: 24px; 
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px; 
+  margin-bottom: 20px;
+}
